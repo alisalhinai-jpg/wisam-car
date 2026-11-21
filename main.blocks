@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="O6N/=%53ftq;L~Q*B7$J" x="20" y="20"></block><block type="device_forever" id="B-!T+MF}Iq?h?lKf._ku" x="225" y="20"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="-x`ri=$=aCHdq~}S7js;">myImage</variable></variables><block type="device_forever" id="{^?Pi;EJ_M$q~e_H5MIq" x="278" y="165"><statement name="HANDLER"><block type="device_show_image_offset" id="IjNN4yILCC3ZTZ/(8TxI"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="variables_get" id="h_Ij,(?fVh=zAe%0ok=l"><field name="VAR" id="-x`ri=$=aCHdq~}S7js;">myImage</field></block></value><value name="offset"><shadow type="math_number" id="~O.G`yj~nv_Y?5]n*+MB"><field name="NUM">0</field></shadow></value><value name="interval"><shadow type="math_number" id="BVdU{m72tG*a1dmGR3s6"><field name="NUM">400</field></shadow></value></block></statement></block><block type="device_build_image" id=",Tr;?w`Rd{N25%R~9JZ@" disabled-reasons="pxt_automatic_disabled" x="440" y="318"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></xml>
